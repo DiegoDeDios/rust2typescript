@@ -5,6 +5,9 @@
 /.pnp
 .pnp.js
 
+/calc-lib/pkg*
+/calc-lib/target*
+
 # testing
 /coverage
 
