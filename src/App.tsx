@@ -4,7 +4,7 @@ import Calculation from './Calculations';
 function App() {
   return (
     <div className="App">
-      <Calculation x={5} y={7}></Calculation>
+      <Calculation x={7} y={5}></Calculation>
     </div>
   );
 }
